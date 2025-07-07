@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sekanderdany
 - 👀 I’m interested in DevOps, AIOps & Cyber Security
-- 🌱 I’m currently learning python, docker, git, kubernetes & ethical hacking
+- 🌱 I’m currently learning python, AI Engineering, docker, git, kubernetes & ethical hacking
 - 💞️ I’m looking to collaborate & Contribute on devops community
 - 📫 How to reach me - linkedin.com/in/sekanderdany ; sekanderdany@gmail.com
 
